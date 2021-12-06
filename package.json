@@ -1,0 +1,12 @@
+{
+  "name": "Study-code",
+  "version": "1.0.0",
+  "description": "练习code",
+  "main": "index.js",
+  "repository": "https://github.com/alienRidingCat/Study-code.git",
+  "author": "Zoulei <burntower@aliyun.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^27.4.3"
+  }
+}

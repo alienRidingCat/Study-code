@@ -32,6 +32,6 @@ function listArray(head) {
   var restValues = listArray(head.next)
   return result.concat(restValues)
 }
-
-
+const example1 = [0, 8, 1, 3, 4, 5, 7, 2, 4, 3, 2, 5, 2]
+console.log(arrayList(example1))
 module.exports = { ListNode, arrayList, listArray }
